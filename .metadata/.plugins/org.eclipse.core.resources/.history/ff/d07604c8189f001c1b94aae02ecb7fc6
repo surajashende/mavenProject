@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ONLINE_FOOD_DELIVERY_SYSTEM">
+        <property name="context-root" value="ONLINE_FOOD_DELIVERY_SYSTEM"/>
+        <property name="java-output-path" value="/ONLINE_FOOD_DELIVERY_SYSTEM/build/classes"/>
+    </wb-module>
+</project-modules>
